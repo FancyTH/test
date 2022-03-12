@@ -1,0 +1,2 @@
+G:\vs_c\shutdown\Debug\shutdown.exe
+G:\vs_c\shutdown\Debug\shutdown.pdb

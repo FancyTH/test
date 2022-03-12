@@ -1,0 +1,7 @@
+﻿  Function_test_2022_3_10.c
+G:\vs_c\Function_test_2022_3_10\Function_test_2022_3_10.c(121,10): warning C4047: “函数”:“int”与“int *”的间接级别不同
+G:\vs_c\Function_test_2022_3_10\Function_test_2022_3_10.c(121,6): warning C4024: “Add”: 形参和实参 1 的类型不同
+G:\vs_c\Function_test_2022_3_10\Function_test_2022_3_10.c(123,10): warning C4047: “函数”:“int”与“int *”的间接级别不同
+G:\vs_c\Function_test_2022_3_10\Function_test_2022_3_10.c(123,6): warning C4024: “Add”: 形参和实参 1 的类型不同
+G:\vs_c\Function_test_2022_3_10\Function_test_2022_3_10.c(45): warning C4715: “is_leap_year”: 不是所有的控件路径都返回值
+  Function_test_2022_3_10.vcxproj -> G:\vs_c\Function_test_2022_3_10\Debug\Function_test_2022_3_10.exe

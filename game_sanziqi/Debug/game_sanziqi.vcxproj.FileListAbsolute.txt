@@ -1,0 +1,2 @@
+G:\vs_c\game_sanziqi\Debug\game_sanziqi.exe
+G:\vs_c\game_sanziqi\Debug\game_sanziqi.pdb

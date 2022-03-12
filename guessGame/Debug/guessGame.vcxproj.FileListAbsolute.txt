@@ -1,0 +1,2 @@
+G:\vs_c\guessGame\Debug\guessGame.exe
+G:\vs_c\guessGame\Debug\guessGame.pdb

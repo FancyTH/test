@@ -1,0 +1,2 @@
+G:\vs_c\Function2_2022_3_10\Debug\Function2_2022_3_10.exe
+G:\vs_c\Function2_2022_3_10\Debug\Function2_2022_3_10.pdb

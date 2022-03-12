@@ -1,0 +1,5 @@
+﻿  shutdown.c
+G:\vs_c\shutdown\shutdown.c(6,8): warning C4013: “system”未定义；假设外部返回 int
+G:\vs_c\shutdown\shutdown.c(9,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int (*)[20]”
+G:\vs_c\shutdown\shutdown.c(10,18): warning C4133: “函数”: 从“int [20]”到“const char *”的类型不兼容
+  shutdown.vcxproj -> G:\vs_c\shutdown\Debug\shutdown.exe

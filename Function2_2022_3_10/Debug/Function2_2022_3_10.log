@@ -1,0 +1,5 @@
+﻿  Print.c
+  function2_2022_3_10.c
+  正在生成代码...
+G:\vs_c\Function2_2022_3_10\Print.c(65): warning C4715: “Fibo”: 不是所有的控件路径都返回值
+  Function2_2022_3_10.vcxproj -> G:\vs_c\Function2_2022_3_10\Debug\Function2_2022_3_10.exe

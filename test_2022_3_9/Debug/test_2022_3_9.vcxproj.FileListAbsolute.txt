@@ -1,0 +1,2 @@
+G:\vs_c\test_2022_3_9\Debug\test_2022_3_9.exe
+G:\vs_c\test_2022_3_9\Debug\test_2022_3_9.pdb
