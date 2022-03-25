@@ -1,0 +1,2 @@
+Git bash here使用
+gut clone 仓库连接//克隆到本地

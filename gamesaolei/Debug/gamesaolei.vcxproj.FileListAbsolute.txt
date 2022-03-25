@@ -1,0 +1,2 @@
+G:\vs_c\gamesaolei\Debug\gamesaolei.exe
+G:\vs_c\gamesaolei\Debug\gamesaolei.pdb

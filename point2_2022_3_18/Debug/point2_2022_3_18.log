@@ -1,0 +1,4 @@
+﻿  point2_2022_3_18.c
+G:\vs_c\point2_2022_3_18\point2_2022_3_18.c(82,15): warning C4013: “strcmp”未定义；假设外部返回 int
+G:\vs_c\point2_2022_3_18\point2_2022_3_18.c(88,1): warning C4305: “初始化”: 从“double”到“float”截断
+  point2_2022_3_18.vcxproj -> G:\vs_c\point2_2022_3_18\Debug\point2_2022_3_18.exe

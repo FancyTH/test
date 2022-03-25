@@ -1,0 +1,2 @@
+G:\vs_c\test1\Debug\test1.exe
+G:\vs_c\test1\Debug\test1.pdb

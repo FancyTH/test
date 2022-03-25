@@ -1,0 +1,2 @@
+G:\vs_c\struct_2022_3_15\Debug\struct_2022_3_15.exe
+G:\vs_c\struct_2022_3_15\Debug\struct_2022_3_15.pdb

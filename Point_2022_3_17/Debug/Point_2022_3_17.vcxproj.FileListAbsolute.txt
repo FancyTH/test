@@ -1,0 +1,2 @@
+G:\vs_c\Point_2022_3_17\Debug\Point_2022_3_17.exe
+G:\vs_c\Point_2022_3_17\Debug\Point_2022_3_17.pdb
